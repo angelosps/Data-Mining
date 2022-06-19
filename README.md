@@ -1,8 +1,8 @@
 # ⛏️ Data Mining 
 
-## Sentiment Analysis on COVID-19 Vaccines
+## Sentiment Analysis on COVID-19 Vaccines 💉
 
-## NYC Taxi Trip Duration Prediction
+## NYC Taxi Trip Duration Prediction 🚕
 
 |Notebook | Link to Google Colab |
 |:-:|:-:|
