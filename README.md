@@ -11,3 +11,8 @@ In this notebook, we perform sentiment analysis on tweets talking about COVID-19
 In this notebook, we analyze data from taxi rides in the greater New York City area. We perform clustering with **K-Means** and regression with **Random Forests Regressor** to predict taxi trip duration. We also create a map of New York City with the pickup and drop-off points of the trips and perform some further data analysis focusing on traffic times.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LF3m_psM8vAgzl_J1V6yr-inq2Xh5ki1?usp=sharing) 
+
+## Authors
+
+* [Angelos Poulis](https://github.com/angelosps)
+* [Dimitrios Kyriakopoulos](https://github.com/dimitrskpl)
