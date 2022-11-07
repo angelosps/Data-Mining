@@ -14,5 +14,7 @@ In this notebook, we analyze data from taxi rides in the greater New York City a
 
 ## Authors
 
-* [Angelos Poulis](https://github.com/angelosps)
-* [Dimitrios Kyriakopoulos](https://github.com/dimitrskpl)
+* [Angelos Poulis](https://github.com/angelosps)<sup>*</sup>
+* [Dimitrios Kyriakopoulos](https://github.com/dimitrskpl)<sup>*</sup>
+
+<sup>*</sup>_Equal contribution._
